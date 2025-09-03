@@ -53,3 +53,64 @@ Agora você tem CINCO versões completas:
 🌸 Lotofácil (15 números, 1-25, #7D177D)
 🎰 Lotomania (20 números, 1-100, #E68527)
 Todas com funcionalidades idênticas e paletas de cores personalizadas! 🚀🎨
+
+
+Principais melhorias adicionadas para a Lotomania:
+
+🎰 Animação Pulse Corrigida:
+Pulse com as cores da Lotomania (#fef9f1, #e68527, #f2b149)
+Animação suave de 3 segundos
+🎯 Gerador de Palpites Específico para Lotomania:
+3 Estratégias adaptadas para 20 números (1-100)
+Eliminação global (100 números em pool único)
+Estratégia 2 com eliminação progressiva (até 4 sequências)
+Estratégia 3 com eliminação múltipla dos últimos N concursos
+Download em múltiplos formatos (TXT, HTML, XLSX)
+Visualização global dos 100 números com status
+Grid 10x10 para mostrar todos os números de 1-100
+
+📊 Análise Visual Avançada:
+Análise por posição (1º-20º, limitada a 10 para visualização)
+Tabelas visuais dos números que saíram por posição
+Números que não saíram por posição
+Controle de jogos a analisar (padrão: 25)
+
+🔧 Funcionalidades Técnicas:
+Carregamento automático de todos os concursos
+Barra de progresso com cancelamento
+Filtros exatos por posição (número específico)
+Estatísticas detalhadas par/ímpar
+Toggle da tabela de resultados
+
+🎨 Cores e Visual:
+Cores oficiais da Lotomania (laranja #e68527 + amarelo #f2b149)
+Gradientes específicos laranja-amarelo
+Emojis de casino 🎰 para combinar com o tema
+Modal explicativo completo com cores da marca
+Destaque especial para os 20 números
+
+🎯 Especificidades da Lotomania:
+20 números independentes (1-100)
+Eliminação global (todos os 100 números em um pool)
+Estratégia 2: Progressiva com 4 sequências máximas (20x4=80)
+Estratégia 3: Eliminação múltipla dos últimos N concursos
+Visualização em grid 10x10 dos 100 números
+Análise limitada às primeiras 10 posições (de 20 total)
+
+🚀 Funcionalidades Únicas:
+Status global mostra eliminados/disponíveis/palpites para todos os 100 números
+Histórico visual com números (mostra até 10 + contador)
+Download especializado com formato de 20 números
+Modal explicativo detalhado para cada estratégia da Lotomania
+Grid visual mostra status de todos os números de 1-100
+Análise otimizada para não sobrecarregar (10 posições de 20)
+
+🎰 Características da Lotomania:
+20 números por jogo vs 6 da Mega-Sena ou 7 da Timemania
+Pool de 100 números (maior que outras modalidades)
+4 sequências máximas na estratégia progressiva
+Visualização compacta para não sobrecarregar com 20 colunas
+Análise limitada para performance (apenas primeiras 10 posições)
+Grid 10x10 perfeito para mostrar os 100 números
+Agora a Lotomania tem todas as funcionalidades avançadas, perfeitamente adaptadas para seus 20 números sorteados! 🎰🎯✨
+
